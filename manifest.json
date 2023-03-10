@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "MyJupyterNotebook.ipynb"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.9.5",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.1.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "MyJupyterNotebook.ipynb": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "requirements.txt": {
+      "checksum": "4d0165bd2fe7d594cf2db23e8f4c28ca"
+    }
+  }
+}
